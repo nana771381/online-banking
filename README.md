@@ -1,7 +1,18 @@
 # online-banking
 OOP java project (taylors)
 
-So I did this project as my sem 1 final exam project for the modul Object Oriented Programming.
-I'm gonna try to upload this project to github using cmd lines (??)
+So this is the first ever individual project (a very simple one) that I made, for my uni's final exam.
 
-This is also my first ever project made.
+There is 5 features in this system, that is to:
+  1 -- Check Balance & Transaction Information
+  2 -- Online Biling
+  3 -- Balance Transfer
+  4 -- Update Profile
+  5 -- Logout
+  
+I assumed that I already have a default account with default username and password.
+
+ 
+
+
+
