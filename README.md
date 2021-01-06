@@ -12,6 +12,10 @@ There is 5 features in this system, that is to:
   
 I assumed that I already have a default account with default username and password.
 
+This is the default userID and password:
+this.userId = 99887766;
+this.password = "abc9876";
+
  
 
 
