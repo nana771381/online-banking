@@ -16,7 +16,7 @@ There is 5 features in this system, that is to:
   5 -- Logout
   
   
-I assumed that I already have a default account with default username and password.
+The project assumed that the user already have a default account with default username and password.
 
 This is the default userID and password:
 
